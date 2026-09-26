@@ -26,6 +26,10 @@ The dataset contains information about Zepto products, including:
 - Stock availability
 - Quantity
 
+The dataset was obtained from Kaggle:
+
+🔗 https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset
+
 ## 🗃️ Database Structure
 
 The main table used in this project is `zepto`.
